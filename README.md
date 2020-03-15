@@ -1,7 +1,7 @@
 # Emotion-Based-Face-Expression-Detection-Through-Facial-Feature-Recognition-OpenCv-and-CNN
 
 
-# Facial Detection, Recognition and Emotion Detection
+**Facial Detection, Recognition and Emotion Detection**
 
 <img src="test_images/20180901150822_new.jpg" width="300" height= "0.2" />
 
